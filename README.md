@@ -28,7 +28,7 @@ Joined Github **3** years ago.
 - 🚀 &nbsp; I’m currently learning ReactJs in high level.
 - 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
 - 📫 &nbsp; How to reach me: nojabaiehanieh@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/h-nojabaie/h-nojabaie/blob/master/resume.pdf).
 
 ### My Absolute Favorites:
 
